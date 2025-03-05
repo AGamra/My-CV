@@ -1,0 +1,20 @@
+*{
+    background-color: blanchedalmond;
+}
+  table {
+    border: 5px solid;
+    color: #16709d;
+  }
+  td {
+    text-align: center;
+  }
+  img {
+    border-radius: 10px;
+  }
+  th, td {
+    border-bottom: 1px solid #ddd;
+  }
+  p{
+    text-decoration: wavy;
+    text-align: justify;
+  }
